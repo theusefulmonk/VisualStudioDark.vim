@@ -14,7 +14,8 @@ let g:colors_name = "vs"
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
 "hi Normal guifg=#c8c8c8 guibg=#192224 guisp=#192224 gui=NONE ctermfg=251 ctermbg=235 cterm=NONE
-hi Normal guifg=#c9c6c9 guibg=#1e1e1e guisp=#1e1e1e gui=NONE ctermfg=251 ctermbg=235 cterm=NONE
+" hi Normal guifg=#c9c6c9 guibg=#1e1e1e guisp=#1e1e1e gui=NONE ctermfg=251 ctermbg=235 cterm=NONE "original
+hi Normal guifg=#c9c6c9 guibg=#0b1d20 guisp=#1e1e1e gui=NONE ctermfg=251 ctermbg=235 cterm=NONE 
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi EnumerationValue -- no settings --
